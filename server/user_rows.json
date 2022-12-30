@@ -1,0 +1,22 @@
+{
+    "userdata":[
+        {
+            "userName": "kimTan",
+            "password": "$2b$10$/YLOgYMoFUp/j97crhxKBetnWo9oeeL.MfHl5hFK7cpjtz3CE7BUC",
+            "role": "admin",
+            "fullName": "Kimberly Tan",
+            "dateOfBirth": "1993/04/18",
+            "phoneNumber": "+6588887777",
+            "email": "kimberlyTan@ttsh.com.sg"
+        },
+        {
+            "userName": "cindyLim",
+            "password": "$2b$10$JgcBDBEuj9UtudmLVOQpe.b16oW/LNcU68h4PHzZzBp9.naO0pZAu",
+            "role": "user",
+            "fullName": "Cindy Lim",
+            "dateOfBirth": "1995/02/17",
+            "phoneNumber": "+6587654321",
+            "email": "cindyLim@ttsh.com.sg"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "rowdata":[
+        {
+            "scopeName": "Scope A",
+            "scopeType": "Bronchoscope",
+            "brandName": "Olympus",
+            "modelNumber": "BF-P190502",
+            "scopeSerial": "2932602",
+            "scopeStatus": "Available",
+            "personnelName": "Mary Lim",
+            "eventDate": "2022-11-04 15:30:00",
+            "updatedDate": "2022-11-01 10:43:00",
+            "comments": ""
+        },
+        {
+            "scopeName": "Scope B",
+            "scopeType": "OGD",
+            "brandName": "Fujinon",
+            "modelNumber": "EG-759Z391",
+            "scopeSerial": "5G403L583",
+            "scopeStatus": "Available",
+            "personnelName": "Tommy Soh",
+            "eventDate": "2022-11-08 11:00:00",
+            "updatedDate": "2022-11-01 10:15:00",
+            "comments": ""
+
+        },
+        {
+            "scopeName": "Scope C",
+            "scopeType": "OGD",
+            "brandName": "Fujinon",
+            "modelNumber": "DK-322O152",
+            "scopeSerial": "6P752L522",
+            "scopeStatus": "Out for Repair",
+            "personnelName": "John Lawson",
+            "eventDate": null,
+            "updatedDate": "2022-11-01 12:10:00",
+            "comments": ""
+
+        },
+        {
+            "scopeName": "Scope D",
+            "scopeType": "OGD",
+            "brandName": "Fujinon",
+            "modelNumber": "OQ-924E529",
+            "scopeSerial": "1H132Y592",
+            "scopeStatus": "Sample (Pass)",
+            "personnelName": "Wei Jing Xia",
+            "eventDate": "2022-11-13 09:00:00",
+            "updatedDate": "2022-11-01 16:30:00",
+            "comments": "Sampling done"
+
+        },
+        {
+            "scopeName": "Scope E",
+            "scopeType": "Bronchoscope",
+            "brandName": "Olympus",
+            "modelNumber": "AD-K172399",
+            "scopeSerial": "8756134",
+            "scopeStatus": "Drying",
+            "personnelName": "Donna Lee",
+            "eventDate": "2022-11-12 15:30:00",
+            "updatedDate": "2022-11-01 18:22:00",
+            "comments": ""
+        },
+        {
+            "scopeName": "Scope F",
+            "scopeType": "Bronchoscope",
+            "brandName": "Olympus",
+            "modelNumber": "YB-A838321",
+            "scopeSerial": "6429145",
+            "scopeStatus": "Under Quarantine",
+            "personnelName": "Tommy Soh",
+            "eventDate": "2022-11-27 10:30:00",
+            "updatedDate": "2022-11-02 13:18:00",
+            "comments": ""
+        },
+        {
+            "scopeName": "Scope G",
+            "scopeType": "Bronchoscope",
+            "brandName": "Olympus",
+            "modelNumber": "QE-V259315",
+            "scopeSerial": "6298237",
+            "scopeStatus": "Under Quarantine",
+            "personnelName": "Mary Lim",
+            "eventDate": "2022-12-05 18:00:00",
+            "updatedDate": "2022-11-02 09:27:00",
+            "comments": ""
+        },
+        {
+            "scopeName": "Scope H",
+            "scopeType": "OGD",
+            "brandName": "Fujinon",
+            "modelNumber": "PO-723Z187",
+            "scopeSerial": "2G991L612",
+            "scopeStatus": "Available",
+            "personnelName": "Tommy Soh",
+            "eventDate": "2022-11-15 11:00:00",
+            "updatedDate": "2022-11-01 10:15:00",
+            "comments": ""
+        },
+        {
+            "scopeName": "Scope I",
+            "scopeType": "Bronchoscope",
+            "brandName": "Olympus",
+            "modelNumber": "PL-G123K3J",
+            "scopeSerial": "1312312",
+            "scopeStatus": "Available",
+            "personnelName": "James Wong",
+            "eventDate": "2022-11-22 15:00:00",
+            "updatedDate": "2022-11-04 11:25:00",
+            "comments": ""
+        }
+    ]
+}

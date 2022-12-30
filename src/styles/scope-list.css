@@ -1,0 +1,87 @@
+/* Scope list/table */
+.table {
+    max-width: 100%;
+    border-collapse: collapse;
+    margin: auto;
+    margin-bottom: 90px;
+    margin-top: 30px;
+  }
+  
+  .table-body {
+    background: rgb(219, 233, 250) none repeat scroll 0 0;
+    width: 150%;
+    
+  }
+
+  
+  .table-head-item {
+    padding: 6px 12px;
+    width: 20%;
+    font-size: 11px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, .38);
+    text-align: right;
+    text-transform: uppercase;
+  }
+  
+  .table-row:nth-child(even) {
+    background: rgb(236, 243, 252) none repeat scroll 0 0;
+    width: 80px;
+  }
+  
+  .table-item {
+    overflow: hidden;
+    padding: 6px;
+    height: 24px;
+    font-size: 11px;
+    line-height: 24px;
+    text-align: center;
+    text-overflow: ellipsis;
+    width: fit-content;
+  }
+  .table-number {
+    overflow: hidden;
+    padding: 6px;
+    height: 20px;
+    font-size: 11px;
+    line-height: 20px;
+    text-align: center;
+    text-overflow: ellipsis;
+    width: 20px;
+  }
+  .table-head-item:not(:first-child):not(:last-child),
+  .table-item:not(:first-child):not(:last-child) {
+    text-align: center;
+  }
+/*   
+  .table-item:first-child {
+    width: 5%;
+  }
+  
+  .table-item:nth-child(2) {
+    width: 30%;
+  }
+  
+  .table-item:nth-child(3) {
+    width: 25%;
+  }
+  
+  .table-item:nth-child(4) {
+    width: 10%;
+  }
+  
+  .table-item:nth-child(5) {
+    width: 10%;
+  }
+  
+  .table-item:last-child {
+    width: 10%;
+    min-width: 100px;
+  } */
+  
+  .table-row--active {
+    width: 100px;
+    font-size: 30px;
+    color: #fff;
+    background: #4990e2;
+  }
